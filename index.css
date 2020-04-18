@@ -1,0 +1,70 @@
+body {
+    background-color: indigo;
+    margin: 0;
+    line-height: 1.5;
+  }
+.aside{
+    width: 600px;
+    height: 500px;
+    border: 1px solid red;
+    background-color: midnightblue;
+    color: white;
+    margin: 0;
+    padding: 1px 1px 1px 1px;
+    top: 0px;
+  }
+
+  .box {
+    width: 600px;
+    height: 350px;
+    border: 1px solid green;
+    margin: 0;
+    padding-top: 0;
+  }
+  .form {
+    background-color: skyblue;
+    width: 230px;
+    margin: 12px 20;
+    padding: 12px 20px; 
+    border-radius: 20px 20px 20px 20px;
+    text-align: justified;
+    font-style: Garamond;
+    font-weight: 500;
+    font-family: apply-system, blink macsys;
+    height: 390px;
+    color: black;
+    box-sizing: border box;
+    border: 4px;
+  }
+  img {
+    border-radius: 10%;
+    width: 200px;
+    height: 500px;
+  }
+  .content {
+    color: white;
+    text-align: center;
+    background: red;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  p {
+    text-align: center;
+  }
+ .submit-btn {
+    background-color: navyblue;
+    color: white;
+  }
+  ul {
+    color: white; 
+    text-align: left;
+  }
+  input {
+    width: 150px;
+    margin: 8px 0;
+    padding: 12px 20px;
+    border: 4px solid #ccc;    
+    border-radius: 8px;
+  }
